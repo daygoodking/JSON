@@ -1,0 +1,923 @@
+{
+    "key": "official_builder",
+    "name": "资源站聚合",
+    "order": 0,
+    "edit": false,
+    "array": [
+        {
+            "key": "f70143c30954321f8dc181a85c2d023b",
+            "name": "AL资源网❀",
+            "order": 0,
+            "baseUrl": "http:\/\/www.cqzyw.net:88\/api.php\/provide\/vod\/at\/xml\/",
+            "version": "2020-12-19",
+            "charset": "utf-8",
+            "userAgent": "WINDOWS",
+            "nextPageEnabled": false,
+            "ruleDecoder": "JS",
+            "isMx": true,
+            "mxTeams": [
+                {
+                    "key": "alizy",
+                    "teamName": "在线播放",
+                    "teamType": "PLAY"
+                }
+            ]
+        },
+        {
+            "key": "8517f2b5c92e9856311a40d0bdb07188",
+            "name": "人人资源网",
+            "order": 1,
+            "baseUrl": "https:\/\/www.rrzy.cc\/api.php\/provide\/vod\/from\/rrm3u8\/at\/xml\/",
+            "version": "2020-12-19",
+            "charset": "utf-8",
+            "userAgent": "WINDOWS",
+            "nextPageEnabled": false,
+            "ruleDecoder": "JS",
+            "isMx": true,
+            "mxTeams": [
+                {
+                    "key": "rrm3u8",
+                    "teamName": "云播放",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/www.rrzyw.cc\/rrm3u8\/index.php?url="
+                }
+            ]
+        },
+        {
+            "key": "d348d195b385430b6f4332d659bade22",
+            "name": "最大加速资源☘",
+            "order": 2,
+            "baseUrl": "http:\/\/www.zdziyuan.com\/inc\/apidown.php",
+            "version": "2020-12-19",
+            "charset": "utf-8",
+            "userAgent": "WINDOWS",
+            "nextPageEnabled": false,
+            "ruleDecoder": "JS",
+            "isMx": true,
+            "mxTeams": [
+                {
+                    "key": "xunlei",
+                    "teamName": "加速播放",
+                    "teamType": "DOWNLOAD"
+                }
+            ]
+        },
+        {
+            "key": "5dcda9b47a412a6205f94bdc63a1c9b7",
+            "name": "OK加速资源☘",
+            "order": 3,
+            "baseUrl": "https:\/\/cj.okzy.tv\/inc\/apidown_subname.php",
+            "version": "2020-12-19",
+            "charset": "utf-8",
+            "userAgent": "WINDOWS",
+            "nextPageEnabled": false,
+            "ruleDecoder": "JS",
+            "isMx": true,
+            "mxTeams": [
+                {
+                    "key": "xunlei",
+                    "teamName": "加速播放",
+                    "teamType": "DOWNLOAD"
+                }
+            ]
+        },
+        {
+            "key": "6b9f93d119e19c9f9ada24c14904e731",
+            "name": "酷云加速资源☘",
+            "order": 4,
+            "baseUrl": "http:\/\/caiji.kuyun98.com\/inc\/apidown.php",
+            "version": "2020-12-19",
+            "charset": "utf-8",
+            "userAgent": "WINDOWS",
+            "nextPageEnabled": false,
+            "ruleDecoder": "JS",
+            "isMx": true,
+            "mxTeams": [
+                {
+                    "key": "xunlei",
+                    "teamName": "加速播放",
+                    "teamType": "DOWNLOAD"
+                }
+            ]
+        },
+        {
+            "key": "2cd5c6e488cdf329e63d0d2386aa320b",
+            "name": "八戒资源网",
+            "order": 5,
+            "baseUrl": "http:\/\/cj.bajiecaiji.com\/inc\/api.php",
+            "version": "2020-12-19",
+            "charset": "utf-8",
+            "userAgent": "WINDOWS",
+            "nextPageEnabled": false,
+            "ruleDecoder": "JS",
+            "isMx": true,
+            "mxTeams": [
+                {
+                    "key": "bjm3u8",
+                    "teamName": "在线播放",
+                    "teamType": "PLAY"
+                },
+                {
+                    "key": "bjyun",
+                    "teamName": "云播放",
+                    "teamType": "CLOUD"
+                }
+            ]
+        },
+        {
+            "key": "36a75fea37ed605bc61db3c1a68bb200",
+            "name": "123资源网",
+            "order": 6,
+            "baseUrl": "http:\/\/cj.123ku2.com:12315\/inc\/api.php",
+            "version": "2020-12-19",
+            "charset": "utf-8",
+            "userAgent": "WINDOWS",
+            "nextPageEnabled": false,
+            "ruleDecoder": "JS",
+            "isMx": true,
+            "mxTeams": [
+                {
+                    "key": "123kum3u8",
+                    "teamName": "在线播放",
+                    "teamType": "PLAY"
+                },
+                {
+                    "key": "123kuyun",
+                    "teamName": "云播放",
+                    "teamType": "CLOUD"
+                }
+            ]
+        },
+        {
+            "key": "75c0ac4385ff1eaed412ac9b8895866b",
+            "name": "雅酷资源网",
+            "order": 7,
+            "baseUrl": "https:\/\/zy.52yaku.com\/api.php\/provide\/vod\/at\/xml",
+            "version": "2020-12-19",
+            "charset": "utf-8",
+            "userAgent": "WINDOWS",
+            "nextPageEnabled": false,
+            "ruleDecoder": "JS",
+            "isMx": true,
+            "mxTeams": [
+                {
+                    "key": "yaku",
+                    "teamName": "云播放",
+                    "teamType": "CLOUD"
+                }
+            ]
+        },
+        {
+            "key": "4f1ce3ff0e1b548acff11ffd0a07cb49",
+            "name": "霸大资源网",
+            "order": 7,
+            "baseUrl": "https:\/\/cj.apibdzy.com\/inc\/api.php",
+            "version": "2020-12-19",
+            "charset": "utf-8",
+            "userAgent": "WINDOWS",
+            "nextPageEnabled": false,
+            "ruleDecoder": "JS",
+            "isMx": true,
+            "mxTeams": [
+                {
+                    "key": "dbm3u8",
+                    "teamName": "在线播放",
+                    "teamType": "PLAY"
+                }
+            ]
+        },
+        {
+            "key": "8560e6ae2d2f9e29a7a24413d0044c99",
+            "name": "聚合资源网",
+            "order": 8,
+            "baseUrl": "https:\/\/cj.cbi88.com\/inc\/api_juhem3u8s.php",
+            "version": "2020-12-19",
+            "charset": "utf-8",
+            "userAgent": "WINDOWS",
+            "nextPageEnabled": false,
+            "ruleDecoder": "JS",
+            "isMx": true,
+            "mxTeams": [
+                {
+                    "key": "juhem3u8",
+                    "teamName": "在线播放",
+                    "teamType": "PLAY"
+                }
+            ]
+        },
+        {
+            "key": "ddfb4b06664fdcb39bbe3112eb9d2216",
+            "name": "沃酷资源网",
+            "order": 9,
+            "baseUrl": "http:\/\/api.wokuzy.com\/api\/xml\/wokum3u8",
+            "version": "2020-12-19",
+            "charset": "utf-8",
+            "userAgent": "WINDOWS",
+            "nextPageEnabled": false,
+            "ruleDecoder": "JS",
+            "isMx": true,
+            "mxTeams": [
+                {
+                    "key": "wokum3u8",
+                    "teamName": "在线播放",
+                    "teamType": "PLAY"
+                }
+            ]
+        },
+        {
+            "key": "692b5ec1b95da75f2c03cb447499c81d",
+            "name": "乐多资源网",
+            "order": 10,
+            "baseUrl": "http:\/\/www.leduozy.com\/inc\/api.php",
+            "version": "2020-12-19",
+            "charset": "utf-8",
+            "userAgent": "WINDOWS",
+            "nextPageEnabled": false,
+            "ruleDecoder": "JS",
+            "isMx": true,
+            "mxTeams": [
+                {
+                    "key": "leduo",
+                    "teamName": "在线播放",
+                    "teamType": "PLAY"
+                }
+            ]
+        },
+        {
+            "key": "942f19644d955614c940444738c6672b",
+            "name": "快播资源网",
+            "order": 11,
+            "baseUrl": "http:\/\/www.kuaibozy.com\/api.php\/provide\/vod\/at\/xml\/",
+            "version": "2020-12-19",
+            "charset": "utf-8",
+            "userAgent": "WINDOWS",
+            "nextPageEnabled": false,
+            "ruleDecoder": "JS",
+            "isMx": true,
+            "mxTeams": [
+                {
+                    "key": "kbm3u8",
+                    "teamName": "在线播放",
+                    "teamType": "PLAY"
+                },
+                {
+                    "key": "kbzy",
+                    "teamName": "云播放",
+                    "teamType": "CLOUD"
+                }
+            ]
+        },
+        {
+            "key": "b1af031435f9e87167133903e20d00fd",
+            "name": "OK资源网",
+            "order": 12,
+            "baseUrl": "https:\/\/cj.okzy.tv\/inc\/api1s_subname.php",
+            "version": "2020-12-19",
+            "charset": "utf-8",
+            "userAgent": "WINDOWS",
+            "nextPageEnabled": false,
+            "ruleDecoder": "JS",
+            "isMx": true,
+            "mxTeams": [
+                {
+                    "key": "ckm3u8",
+                    "teamName": "在线播放",
+                    "teamType": "PLAY"
+                },
+                {
+                    "key": "kuyun",
+                    "teamName": "云播放",
+                    "teamType": "CLOUD"
+                }
+            ]
+        },
+        {
+            "key": "daf5c5b7583a010f7ad7765e2b6a39fd",
+            "name": "最大资源网",
+            "order": 13,
+            "baseUrl": "http:\/\/www.zdziyuan.com\/inc\/api.php",
+            "version": "2020-12-19",
+            "charset": "utf-8",
+            "userAgent": "WINDOWS",
+            "nextPageEnabled": false,
+            "ruleDecoder": "JS",
+            "isMx": true,
+            "mxTeams": [
+                {
+                    "key": "zuidam3u8",
+                    "teamName": "在线播放",
+                    "teamType": "PLAY"
+                },
+                {
+                    "key": "zuidall",
+                    "teamName": "云播放",
+                    "teamType": "CLOUD"
+                }
+            ]
+        },
+        {
+            "key": "acbdc672761d780e987497c04723f3a1",
+            "name": "麻花资源网",
+            "order": 14,
+            "baseUrl": "https:\/\/www.mhapi123.com\/inc\/api_all.php",
+            "version": "2020-12-19",
+            "charset": "utf-8",
+            "userAgent": "WINDOWS",
+            "nextPageEnabled": false,
+            "ruleDecoder": "JS",
+            "isMx": true,
+            "mxTeams": [
+                {
+                    "key": "mahua",
+                    "teamName": "在线播放",
+                    "teamType": "PLAY"
+                }
+            ]
+        },
+        {
+            "key": "2faead18c183bfae14c7bc2deafb309f",
+            "name": "百度资源网",
+            "order": 15,
+            "baseUrl": "https:\/\/api.apibdzy.com\/api.php\/provide\/vod\/at\/xml\/",
+            "version": "2020-12-19",
+            "charset": "utf-8",
+            "userAgent": "WINDOWS",
+            "nextPageEnabled": false,
+            "ruleDecoder": "JS",
+            "isMx": true,
+            "mxTeams": [
+                {
+                    "key": "dbm3u8",
+                    "teamName": "在线播放",
+                    "teamType": "PLAY"
+                },
+                {
+                    "key": "dbyun",
+                    "teamName": "云播放",
+                    "teamType": "CLOUD"
+                }
+            ]
+        },
+        {
+            "key": "6b22a70a1a1ff2da74c623ee4fecd4d9",
+            "name": "酷播资源网",
+            "order": 16,
+            "baseUrl": "http:\/\/api.kbzyapi.com\/inc\/api.php",
+            "version": "2020-12-19",
+            "charset": "utf-8",
+            "userAgent": "WINDOWS",
+            "nextPageEnabled": false,
+            "ruleDecoder": "JS",
+            "isMx": true,
+            "mxTeams": [
+                {
+                    "key": "kakam3u8",
+                    "teamName": "在线播放",
+                    "teamType": "PLAY"
+                },
+                {
+                    "key": "kuyun",
+                    "teamName": "云播放",
+                    "teamType": "CLOUD"
+                }
+            ]
+        },
+        {
+            "key": "bd69fc6c5e66d011a0c76f7a74e08a3d",
+            "name": "酷云资源网",
+            "order": 17,
+            "baseUrl": "http:\/\/caiji.kuyun98.com\/inc\/ldg_api.php",
+            "version": "2020-12-19",
+            "charset": "utf-8",
+            "userAgent": "WINDOWS",
+            "nextPageEnabled": false,
+            "ruleDecoder": "JS",
+            "isMx": true,
+            "mxTeams": [
+                {
+                    "key": "kkm3u8",
+                    "teamName": "在线播放",
+                    "teamType": "PLAY"
+                },
+                {
+                    "key": "kkyun",
+                    "teamName": "云播放",
+                    "teamType": "CLOUD"
+                }
+            ]
+        },
+        {
+            "key": "e596ee11c09015f3aa3518a070eb7781",
+            "name": "最新资源网",
+            "order": 18,
+            "baseUrl": "http:\/\/api.zuixinapi.com\/inc\/api.php",
+            "version": "2020-12-19",
+            "charset": "utf-8",
+            "userAgent": "WINDOWS",
+            "nextPageEnabled": false,
+            "ruleDecoder": "JS",
+            "isMx": true,
+            "mxTeams": [
+                {
+                    "key": "xinm3u8",
+                    "teamName": "在线播放",
+                    "teamType": "PLAY"
+                },
+                {
+                    "key": "xinyun",
+                    "teamName": "云播放",
+                    "teamType": "CLOUD"
+                }
+            ]
+        },
+        {
+            "key": "efc312912c93b8a28d102c76602d844c",
+            "name": "秒播资源网",
+            "order": 19,
+            "baseUrl": "http:\/\/caiji.mb77.vip\/inc\/api.php",
+            "version": "2020-12-19",
+            "charset": "utf-8",
+            "userAgent": "WINDOWS",
+            "nextPageEnabled": false,
+            "ruleDecoder": "JS",
+            "isMx": true,
+            "mxTeams": [
+                {
+                    "key": "mbckm3u8",
+                    "teamName": "在线播放",
+                    "teamType": "PLAY"
+                },
+                {
+                    "key": "mbyun",
+                    "teamName": "云播放",
+                    "teamType": "CLOUD"
+                }
+            ]
+        },
+        {
+            "key": "f2a8ef49f00396985bbc4cb9150db5af",
+            "name": "605资源网",
+            "order": 20,
+            "baseUrl": "http:\/\/www.605zy.co\/inc\/api.php",
+            "version": "2020-12-19",
+            "charset": "utf-8",
+            "userAgent": "WINDOWS",
+            "nextPageEnabled": false,
+            "ruleDecoder": "JS",
+            "isMx": true,
+            "mxTeams": [
+                {
+                    "key": "605m3u8",
+                    "teamName": "在线播放",
+                    "teamType": "PLAY"
+                },
+                {
+                    "key": "605yun",
+                    "teamName": "云播放",
+                    "teamType": "CLOUD"
+                }
+            ]
+        },
+        {
+            "key": "dd9f0c5cf697a95250faebf7c080f428",
+            "name": "1886资源网",
+            "order": 21,
+            "baseUrl": "http:\/\/cj.1886zy.co\/inc\/api.php",
+            "version": "2020-12-19",
+            "charset": "utf-8",
+            "userAgent": "WINDOWS",
+            "nextPageEnabled": false,
+            "ruleDecoder": "JS",
+            "isMx": true,
+            "mxTeams": [
+                {
+                    "key": "zkm3u8",
+                    "teamName": "在线播放",
+                    "teamType": "PLAY"
+                },
+                {
+                    "key": "zkyun",
+                    "teamName": "云播放",
+                    "teamType": "CLOUD"
+                }
+            ]
+        },
+        {
+            "key": "dfe7b3797b1d5ad356d13c3d5262115b",
+            "name": "速播资源网",
+            "order": 22,
+            "baseUrl": "https:\/\/www.subo988.com\/inc\/api.php",
+            "version": "2020-12-19",
+            "charset": "utf-8",
+            "userAgent": "WINDOWS",
+            "nextPageEnabled": false,
+            "ruleDecoder": "JS",
+            "isMx": true,
+            "mxTeams": [
+                {
+                    "key": "subom3u8",
+                    "teamName": "在线播放",
+                    "teamType": "PLAY"
+                },
+                {
+                    "key": "suboyun",
+                    "teamName": "云播放",
+                    "teamType": "CLOUD"
+                }
+            ]
+        },
+        {
+            "key": "ac1da8b9ea2bfb4a9f905a789c826ace",
+            "name": "永久资源网",
+            "order": 23,
+            "baseUrl": "http:\/\/cj.yongjiuzyw.com\/inc\/api.php",
+            "version": "2020-12-19",
+            "charset": "utf-8",
+            "userAgent": "WINDOWS",
+            "nextPageEnabled": false,
+            "ruleDecoder": "JS",
+            "isMx": true,
+            "mxTeams": [
+                {
+                    "key": "yjm3u8",
+                    "teamName": "在线播放",
+                    "teamType": "PLAY"
+                },
+                {
+                    "key": "yjyun",
+                    "teamName": "云播放",
+                    "teamType": "CLOUD"
+                }
+            ]
+        },
+        {
+            "key": "c57f1dec2aee3cdf6e0055028f534385",
+            "name": "天空资源网",
+            "order": 24,
+            "baseUrl": "https:\/\/api.tiankongapi.com\/api.php\/provide\/vod\/at\/xml\/",
+            "version": "2020-12-19",
+            "charset": "utf-8",
+            "userAgent": "WINDOWS",
+            "nextPageEnabled": false,
+            "ruleDecoder": "JS",
+            "isMx": true,
+            "mxTeams": [
+                {
+                    "key": "tkm3u8",
+                    "teamName": "在线播放",
+                    "teamType": "PLAY"
+                },
+                {
+                    "key": "tkyun",
+                    "teamName": "云播放",
+                    "teamType": "CLOUD"
+                }
+            ]
+        },
+        {
+            "key": "344d1532775da57a54563aa6abefd269",
+            "name": "88资源网",
+            "order": 25,
+            "baseUrl": "http:\/\/www.88zyw.net\/inc\/api.php",
+            "version": "2020-12-19",
+            "charset": "utf-8",
+            "userAgent": "WINDOWS",
+            "nextPageEnabled": false,
+            "ruleDecoder": "JS",
+            "isMx": true,
+            "mxTeams": [
+                {
+                    "key": "88zym3u8",
+                    "teamName": "在线播放",
+                    "teamType": "PLAY"
+                },
+                {
+                    "key": "88zy",
+                    "teamName": "云播放",
+                    "teamType": "CLOUD"
+                }
+            ]
+        },
+        {
+            "key": "0b122b93ff41a5643de7774d7217dd19",
+            "name": "明日资源网",
+            "order": 26,
+            "baseUrl": "http:\/\/zy.zcocc.com\/api.php\/provide\/vod\/at\/xml\/",
+            "version": "2020-12-19",
+            "charset": "utf-8",
+            "userAgent": "WINDOWS",
+            "nextPageEnabled": false,
+            "ruleDecoder": "JS",
+            "isMx": true,
+            "mxTeams": [
+                {
+                    "key": "qiyi",
+                    "teamName": "奇艺",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/jx.yingxiangbao.cn\/vip.php?url="
+                },
+                {
+                    "key": "mgtv",
+                    "teamName": "芒果",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/jx.yingxiangbao.cn\/vip.php?url="
+                },
+                {
+                    "key": "88zy",
+                    "teamName": "云播放",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/jx.yingxiangbao.cn\/vip.php?url="
+                },
+                {
+                    "key": "pptv",
+                    "teamName": "PPTV",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/jx.yingxiangbao.cn\/vip.php?url="
+                },
+                {
+                    "key": "youku",
+                    "teamName": "优酷",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/jx.yingxiangbao.cn\/vip.php?url="
+                },
+                {
+                    "key": "letv",
+                    "teamName": "云播放",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/jx.yingxiangbao.cn\/vip.php?url="
+                },
+                {
+                    "key": "qq",
+                    "teamName": "腾讯",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/jx.yingxiangbao.cn\/vip.php?url="
+                },
+                {
+                    "key": "sohu",
+                    "teamName": "搜狐",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/jx.yingxiangbao.cn\/vip.php?url="
+                },
+                {
+                    "key": "migu",
+                    "teamName": "咪咕",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/jx.yingxiangbao.cn\/vip.php?url="
+                },
+                {
+                    "key": "m1905",
+                    "teamName": "1905",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/jx.yingxiangbao.cn\/vip.php?url="
+                }
+            ]
+        },
+        {
+            "key": "17ffe24d745b85a8d1f0a3a68f2d25c8",
+            "name": "8090资源网",
+            "order": 27,
+            "baseUrl": "http:\/\/zy.yilans.net\/api.php\/provide\/vod\/at\/xml\/",
+            "version": "2020-12-19",
+            "charset": "utf-8",
+            "userAgent": "WINDOWS",
+            "nextPageEnabled": false,
+            "ruleDecoder": "JS",
+            "isMx": true,
+            "mxTeams": [
+                {
+                    "key": "qiyi",
+                    "teamName": "奇艺",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/www.8090g.cn\/jiexi\/?url="
+                },
+                {
+                    "key": "pptv",
+                    "teamName": "PPTV",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/www.8090g.cn\/jiexi\/?url="
+                },
+                {
+                    "key": "youku",
+                    "teamName": "优酷",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/www.8090g.cn\/jiexi\/?url="
+                },
+                {
+                    "key": "letv",
+                    "teamName": "LETV",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/www.8090g.cn\/jiexi\/?url="
+                },
+                {
+                    "key": "qq",
+                    "teamName": "腾讯",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/www.8090g.cn\/jiexi\/?url="
+                },
+                {
+                    "key": "qiyi",
+                    "teamName": "奇艺",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/www.8090g.cn\/jiexi\/?url="
+                },
+                {
+                    "key": "sohu",
+                    "teamName": "搜狐",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/www.8090g.cn\/jiexi\/?url="
+                },
+                {
+                    "key": "wasu",
+                    "teamName": "华数",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/www.8090g.cn\/jiexi\/?url="
+                },
+                {
+                    "key": "funshion",
+                    "teamName": "风行",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/www.8090g.cn\/jiexi\/?url="
+                },
+                {
+                    "key": "m1905",
+                    "teamName": "1905",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/www.8090g.cn\/jiexi\/?url="
+                }
+            ]
+        },
+        {
+            "key": "ff4a7ab5755f3e9573fb64d0cdad5da9",
+            "name": "花园资源网",
+            "order": 28,
+            "baseUrl": "http:\/\/zz22x.com\/inc\/api.php?t=1",
+            "version": "2020-12-19",
+            "charset": "utf-8",
+            "userAgent": "WINDOWS",
+            "nextPageEnabled": false,
+            "clearWords": "\\{if-A:.*?\\{endif-A\\}",
+            "ruleDecoder": "JS",
+            "isMx": true,
+            "mxTeams": [
+                {
+                    "key": "qiyi",
+                    "teamName": "奇艺",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/j.zz22x.com\/jx\/index1.php?url="
+                },
+                {
+                    "key": "pptv",
+                    "teamName": "PPTV",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/j.zz22x.com\/jx\/index1.php?url="
+                },
+                {
+                    "key": "youku",
+                    "teamName": "优酷",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/j.zz22x.com\/jx\/index1.php?url="
+                },
+                {
+                    "key": "letv",
+                    "teamName": "LETV",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/j.zz22x.com\/jx\/index1.php?url="
+                },
+                {
+                    "key": "qq",
+                    "teamName": "腾讯",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/j.zz22x.com\/jx\/index1.php?url="
+                },
+                {
+                    "key": "qiyi",
+                    "teamName": "奇艺",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/j.zz22x.com\/jx\/index1.php?url="
+                },
+                {
+                    "key": "sohu",
+                    "teamName": "搜狐",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/j.zz22x.com\/jx\/index1.php?url="
+                },
+                {
+                    "key": "wasu",
+                    "teamName": "华数",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/j.zz22x.com\/jx\/index1.php?url="
+                },
+                {
+                    "key": "cntv",
+                    "teamName": "CNTV",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/j.zz22x.com\/jx\/index1.php?url="
+                },
+                {
+                    "key": "tudou",
+                    "teamName": "土豆资源",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/j.zz22x.com\/jx\/index1.php?url="
+                },
+                {
+                    "key": "Q4",
+                    "teamName": "线路Ⅰ",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/j.zz22x.com\/jx\/index1.php?url="
+                },
+                {
+                    "key": "Q6",
+                    "teamName": "线路Ⅱ",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/j.zz22x.com\/jx\/index1.php?url="
+                },
+                {
+                    "key": "Q8",
+                    "teamName": "线路Ⅲ",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/j.zz22x.com\/jx\/index1.php?url="
+                }
+            ]
+        },
+        {
+            "key": "33d3503b0f25ce0b20de8688bee5fa78",
+            "name": "萝卜资源网",
+            "order": 29,
+            "baseUrl": "http:\/\/cj.lby.pet\/api.php\/provide\/vod\/at\/xml\/",
+            "version": "2020-12-19",
+            "charset": "utf-8",
+            "userAgent": "WINDOWS",
+            "nextPageEnabled": false,
+            "ruleDecoder": "JS",
+            "isMx": true,
+            "mxTeams": [
+                {
+                    "key": "qiyi",
+                    "teamName": "奇艺",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/jx.lby.pet\/?url="
+                },
+                {
+                    "key": "mgtv",
+                    "teamName": "芒果",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/jx.lby.pet\/?url="
+                },
+                {
+                    "key": "pptv",
+                    "teamName": "PPTV",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/jx.lby.pet\/?url="
+                },
+                {
+                    "key": "youku",
+                    "teamName": "优酷",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/jx.lby.pet\/?url="
+                },
+                {
+                    "key": "letv",
+                    "teamName": "LETV",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/jx.lby.pet\/?url="
+                },
+                {
+                    "key": "qq",
+                    "teamName": "腾讯",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/jx.lby.pet\/?url="
+                },
+                {
+                    "key": "qiyi",
+                    "teamName": "奇艺",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/jx.lby.pet\/?url="
+                },
+                {
+                    "key": "sohu",
+                    "teamName": "搜狐",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/jx.lby.pet\/?url="
+                },
+                {
+                    "key": "wasu",
+                    "teamName": "华数",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/jx.lby.pet\/?url="
+                },
+                {
+                    "key": "tudou",
+                    "teamName": "土豆资源",
+                    "teamType": "CLOUD",
+                    "header": "https:\/\/jx.lby.pet\/?url="
+                },
+                {
+                    "key": "lbm3u8",
+                    "teamName": "在线播放",
+                    "teamType": "PLAY",
+                    "header": "https:\/\/jx.lby.pet\/?url="
+                }
+            ]
+        }
+    ]
+}
