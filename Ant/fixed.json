@@ -2,7 +2,7 @@
     "key": "official_builder",
     "name": "资源站聚合",
     "order": 0,
-    "edit": false,
+    "edit": true,
     "array": [
         {
             "key": "f70143c30954321f8dc181a85c2d023b",
