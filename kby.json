@@ -244,7 +244,7 @@
       "key": "cced53966e8b915e42561a771654e1fe",
       "name": "苍天资源",
       "order": 9999,
-      "baseUrl": "http:\/\/cj.cangtiancj.com\/api.php\/Seacms\/vod\/",
+      "baseUrl": "http:\/\/cj.cangtiancj.com\/api.php\/provide\/vod\/at\/xml\/",
       "version": "2020-12-22",
       "charset": "utf-8",
       "userAgent": "WINDOWS",
