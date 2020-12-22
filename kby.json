@@ -1,0 +1,345 @@
+{
+  "key": "5e3761f5be5c0e2bec5cada5a4a87b9d",
+  "name": "✿恐怖鸭✿",
+  "order": 4,
+  "edit": false,
+  "array": [
+    {
+      "key": "3a416c57409cc67ab54e1b556aa9aabd",
+      "name": "小黄瓜资源",
+      "order": 9999,
+      "baseUrl": "http:\/\/cj.xhgcjym.com\/inc\/api.php",
+      "version": "2020-12-22",
+      "charset": "utf-8",
+      "userAgent": "WINDOWS",
+      "nextPageEnabled": false,
+      "ruleDecoder": "JS",
+      "antVodMxBuilder": [
+        {
+          "key": "xhgzy",
+          "teamName": "在线播放",
+          "teamType": "PLAY"
+        }
+      ]
+    },
+    {
+      "key": "489bf762fcaecc1e2b7647a4019bc052",
+      "name": "佳丽资源",
+      "order": 9999,
+      "baseUrl": "https:\/\/jialiapi.com\/api.php\/provide\/vod\/at\/xml\/",
+      "version": "2020-12-22",
+      "charset": "utf-8",
+      "userAgent": "WINDOWS",
+      "nextPageEnabled": false,
+      "ruleDecoder": "JS",
+      "antVodMxBuilder": [
+        {
+          "key": "dplayer",
+          "teamName": "在线播放",
+          "teamType": "PLAY"
+        }
+      ]
+    },
+    {
+      "key": "8d31c1fc6e6be5927eb592b4c428eca7",
+      "name": "环亚资源",
+      "order": 9999,
+      "baseUrl": "http:\/\/wmcj8.com\/inc\/sapi.php",
+      "version": "2020-12-22",
+      "charset": "utf-8",
+      "userAgent": "WINDOWS",
+      "nextPageEnabled": false,
+      "ruleDecoder": "JS",
+      "antVodMxBuilder": [
+        {
+          "key": "ckplayer",
+          "teamName": "在线播放",
+          "teamType": "PLAY"
+        }
+      ]
+    },
+    {
+      "key": "0c01929e5c92175a19e8fbe46f7d0ffe",
+      "name": "辣椒资源",
+      "order": 9999,
+      "baseUrl": "http:\/\/api.11bat.com\/mac10.php",
+      "version": "2020-12-22",
+      "charset": "utf-8",
+      "userAgent": "WINDOWS",
+      "nextPageEnabled": false,
+      "ruleDecoder": "JS",
+      "antVodMxBuilder": [
+        {
+          "key": "lajiao",
+          "teamName": "在线播放",
+          "teamType": "PLAY"
+        }
+      ]
+    },
+    {
+      "key": "1c991dec30ff06785f7d498f59f4bfa8",
+      "name": "大地资源",
+      "order": 9999,
+      "baseUrl": "https:\/\/dadiapi.com\/api.php",
+      "version": "2020-12-22",
+      "charset": "utf-8",
+      "userAgent": "WINDOWS",
+      "nextPageEnabled": false,
+      "ruleDecoder": "JS",
+      "antVodMxBuilder": [
+        {
+          "key": "dadim3u8",
+          "teamName": "在线播放",
+          "teamType": "PLAY"
+        },
+        {
+          "key": "dadi",
+          "teamName": "云播放",
+          "teamType": "CLOUD"
+        }
+      ]
+    },
+    {
+      "key": "329b6ad46e8275ad83c4bf0137eb21fe",
+      "name": "77资源",
+      "order": 9999,
+      "baseUrl": "https:\/\/www.77zyw.xyz\/inc\/seacmsapi.php",
+      "version": "2020-12-22",
+      "charset": "utf-8",
+      "userAgent": "WINDOWS",
+      "nextPageEnabled": false,
+      "ruleDecoder": "JS",
+      "antVodMxBuilder": [
+        {
+          "key": "77m3u8",
+          "teamName": "在线播放",
+          "teamType": "PLAY"
+        },
+        {
+          "key": "77zy",
+          "teamName": "云播放",
+          "teamType": "CLOUD"
+        }
+      ]
+    },
+    {
+      "key": "1bc2157359166922ba56b88cf56c35c9",
+      "name": "IXX资源",
+      "order": 9999,
+      "baseUrl": "http:\/\/api.iixxzyapi.com\/inc\/api.php",
+      "version": "2020-12-22",
+      "charset": "utf-8",
+      "userAgent": "WINDOWS",
+      "nextPageEnabled": false,
+      "ruleDecoder": "JS",
+      "antVodMxBuilder": [
+        {
+          "key": "ckm3u8",
+          "teamName": "在线播放",
+          "teamType": "PLAY"
+        },
+        {
+          "key": "ixx",
+          "teamName": "云播放",
+          "teamType": "CLOUD"
+        }
+      ]
+    },
+    {
+      "key": "d0fc9d85d2b79e8a2176c71a09199533",
+      "name": "快活资源",
+      "order": 9999,
+      "baseUrl": "https:\/\/www.khzyapi.com\/api.php\/provide\/vod\/at\/xml\/",
+      "version": "2020-12-22",
+      "charset": "utf-8",
+      "userAgent": "WINDOWS",
+      "nextPageEnabled": false,
+      "ruleDecoder": "JS",
+      "antVodMxBuilder": [
+        {
+          "key": "khm3u8",
+          "teamName": "在线播放",
+          "teamType": "PLAY"
+        }
+      ]
+    },
+    {
+      "key": "fb25b9d61d833fbd77f032c21dae1114",
+      "name": "三合资源",
+      "order": 9999,
+      "baseUrl": "https:\/\/www.3heyingshi.com\/api.php\/provide\/vod\/at\/xml\/",
+      "version": "2020-12-22",
+      "charset": "utf-8",
+      "userAgent": "WINDOWS",
+      "nextPageEnabled": false,
+      "ruleDecoder": "JS",
+      "antVodMxBuilder": [
+        {
+          "key": "ckplayer",
+          "teamName": "在线播放",
+          "teamType": "PLAY"
+        },
+        {
+          "key": "iframe",
+          "teamName": "云播放",
+          "teamType": "CLOUD"
+        }
+      ]
+    },
+    {
+      "key": "e46e0adce99289b815a32b19b91eccd1",
+      "name": "大炮资源",
+      "order": 9999,
+      "baseUrl": "http:\/\/dgdy.me\/api.php\/provide\/vod\/at\/xml\/",
+      "version": "2020-12-22",
+      "charset": "utf-8",
+      "userAgent": "WINDOWS",
+      "nextPageEnabled": false,
+      "ruleDecoder": "JS",
+      "antVodMxBuilder": [
+        {
+          "key": "wushuiyin",
+          "teamName": "在线播放",
+          "teamType": "PLAY"
+        }
+      ]
+    },
+    {
+      "key": "9ab80b9c855e85aaa0a07533179cea8a",
+      "name": "7688资源",
+      "order": 9999,
+      "baseUrl": "http:\/\/m.7777688.com\/inc\/api.php",
+      "version": "2020-12-22",
+      "charset": "utf-8",
+      "userAgent": "WINDOWS",
+      "nextPageEnabled": false,
+      "ruleDecoder": "JS",
+      "antVodMxBuilder": [
+        {
+          "key": "ckplayer",
+          "teamName": "在线播放",
+          "teamType": "PLAY"
+        }
+      ]
+    },
+    {
+      "key": "b25d737492a5d48aae02fedd0a64e28c",
+      "name": "乐播资源",
+      "order": 9999,
+      "baseUrl": "https:\/\/lbapi9.com\/api.php\/provide\/vod\/at\/xml\/",
+      "version": "2020-12-22",
+      "charset": "utf-8",
+      "userAgent": "WINDOWS",
+      "nextPageEnabled": false,
+      "ruleDecoder": "JS",
+      "antVodMxBuilder": [
+        {
+          "key": "lbm3u8",
+          "teamName": "在线播放",
+          "teamType": "PLAY"
+        }
+      ]
+    },
+    {
+      "key": "cced53966e8b915e42561a771654e1fe",
+      "name": "苍天资源",
+      "order": 9999,
+      "baseUrl": "http:\/\/cj.cangtiancj.com\/api.php\/Seacms\/vod\/",
+      "version": "2020-12-22",
+      "charset": "utf-8",
+      "userAgent": "WINDOWS",
+      "nextPageEnabled": false,
+      "ruleDecoder": "JS",
+      "antVodMxBuilder": [
+        {
+          "key": "ctm3u8",
+          "teamName": "在线播放",
+          "teamType": "PLAY"
+        },
+        {
+          "key": "ctyun",
+          "teamName": "云播放",
+          "teamType": "CLOUD"
+        }
+      ]
+    },
+    {
+      "key": "b294db935f1b489a1724f6f7349c1d02",
+      "name": "云霸资源",
+      "order": 9999,
+      "baseUrl": "http:\/\/cj.1234567bt.com\/inc\/ldg_sea.php",
+      "version": "2020-12-22",
+      "charset": "utf-8",
+      "userAgent": "WINDOWS",
+      "nextPageEnabled": false,
+      "clearWords": "\\{if-A:.*?\\{endif-A\\}",
+      "ruleDecoder": "JS",
+      "antVodMxBuilder": [
+        {
+          "key": "yunbam3u8",
+          "teamName": "在线播放",
+          "teamType": "PLAY"
+        },
+        {
+          "key": "yunbapan",
+          "teamName": "云播放",
+          "teamType": "CLOUD"
+        }
+      ]
+    },
+    {
+      "key": "6087262508d5da31ddb59b7843e2ee24",
+      "name": "鲨鱼资源",
+      "order": 9999,
+      "baseUrl": "https:\/\/shayuapi.com\/api.php\/provide\/vod\/at\/xml\/",
+      "version": "2020-12-22",
+      "charset": "utf-8",
+      "userAgent": "WINDOWS",
+      "nextPageEnabled": false,
+      "ruleDecoder": "JS",
+      "antVodMxBuilder": [
+        {
+          "key": "sym3u8",
+          "teamName": "在线播放",
+          "teamType": "PLAY"
+        }
+      ]
+    },
+    {
+      "key": "a1df42e0026c60712836d90fbff5d493",
+      "name": "独家资源",
+      "order": 9999,
+      "baseUrl": "http:\/\/dujiazy3.com\/api.php\/provide\/vod\/at\/xml\/",
+      "version": "2020-12-22",
+      "charset": "utf-8",
+      "userAgent": "WINDOWS",
+      "nextPageEnabled": false,
+      "ruleDecoder": "JS",
+      "antVodMxBuilder": [
+        {
+          "key": "dplayer",
+          "teamName": "在线播放",
+          "teamType": "PLAY"
+        }
+      ]
+    },
+    {
+      "key": "f2349ee0d27497d858d07b8830d50fbb",
+      "name": "35资源",
+      "order": 9999,
+      "baseUrl": "http:\/\/cj.35zycj.com\/inc\/zyapimac.php",
+      "version": "2020-12-22",
+      "charset": "utf-8",
+      "userAgent": "WINDOWS",
+      "nextPageEnabled": false,
+      "ruleDecoder": "JS",
+      "antVodMxBuilder": [
+        {
+          "key": "ckplayer",
+          "teamName": "在线播放",
+          "teamType": "PLAY"
+        }
+      ]
+    }
+  ]
+}
