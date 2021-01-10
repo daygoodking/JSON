@@ -18,7 +18,8 @@
         {
           "key": "xhgzy",
           "teamName": "在线播放",
-          "teamType": "PLAY"
+          "teamType": "PLAY",
+          "isHls": true
         }
       ]
     },
@@ -36,7 +37,8 @@
         {
           "key": "dplayer",
           "teamName": "在线播放",
-          "teamType": "PLAY"
+          "teamType": "PLAY",
+          "isHls": true
         }
       ]
     },
@@ -54,7 +56,8 @@
         {
           "key": "ckplayer",
           "teamName": "在线播放",
-          "teamType": "PLAY"
+          "teamType": "PLAY",
+          "isHls": true
         }
       ]
     },
@@ -72,7 +75,8 @@
         {
           "key": "lajiao",
           "teamName": "在线播放",
-          "teamType": "PLAY"
+          "teamType": "PLAY",
+          "isHls": true
         }
       ]
     },
@@ -90,7 +94,8 @@
         {
           "key": "dadim3u8",
           "teamName": "在线播放",
-          "teamType": "PLAY"
+          "teamType": "PLAY",
+          "isHls": true
         },
         {
           "key": "dadi",
@@ -113,7 +118,8 @@
         {
           "key": "77m3u8",
           "teamName": "在线播放",
-          "teamType": "PLAY"
+          "teamType": "PLAY",
+          "isHls": true
         },
         {
           "key": "77zy",
@@ -136,7 +142,8 @@
         {
           "key": "ckm3u8",
           "teamName": "在线播放",
-          "teamType": "PLAY"
+          "teamType": "PLAY",
+          "isHls": true
         },
         {
           "key": "ixx",
@@ -159,7 +166,8 @@
         {
           "key": "khm3u8",
           "teamName": "在线播放",
-          "teamType": "PLAY"
+          "teamType": "PLAY",
+          "isHls": true
         }
       ]
     },
@@ -177,7 +185,8 @@
         {
           "key": "ckplayer",
           "teamName": "在线播放",
-          "teamType": "PLAY"
+          "teamType": "PLAY",
+          "isHls": true
         },
         {
           "key": "iframe",
@@ -200,7 +209,8 @@
         {
           "key": "wushuiyin",
           "teamName": "在线播放",
-          "teamType": "PLAY"
+          "teamType": "PLAY",
+          "isHls": true
         }
       ]
     },
@@ -218,7 +228,8 @@
         {
           "key": "ckplayer",
           "teamName": "在线播放",
-          "teamType": "PLAY"
+          "teamType": "PLAY",
+          "isHls": true
         }
       ]
     },
@@ -236,7 +247,8 @@
         {
           "key": "lbm3u8",
           "teamName": "在线播放",
-          "teamType": "PLAY"
+          "teamType": "PLAY",
+          "isHls": true
         }
       ]
     },
@@ -254,7 +266,8 @@
         {
           "key": "ctm3u8",
           "teamName": "在线播放",
-          "teamType": "PLAY"
+          "teamType": "PLAY",
+          "isHls": true
         },
         {
           "key": "ctyun",
@@ -278,7 +291,8 @@
         {
           "key": "yunbam3u8",
           "teamName": "在线播放",
-          "teamType": "PLAY"
+          "teamType": "PLAY",
+          "isHls": true
         },
         {
           "key": "yunbapan",
@@ -301,7 +315,8 @@
         {
           "key": "sym3u8",
           "teamName": "在线播放",
-          "teamType": "PLAY"
+          "teamType": "PLAY",
+          "isHls": true
         }
       ]
     },
@@ -319,7 +334,8 @@
         {
           "key": "dplayer",
           "teamName": "在线播放",
-          "teamType": "PLAY"
+          "teamType": "PLAY",
+          "isHls": true
         }
       ]
     },
@@ -337,7 +353,8 @@
         {
           "key": "ckplayer",
           "teamName": "在线播放",
-          "teamType": "PLAY"
+          "teamType": "PLAY",
+          "isHls": true
         }
       ]
     }
